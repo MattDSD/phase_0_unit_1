@@ -6,4 +6,3 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
