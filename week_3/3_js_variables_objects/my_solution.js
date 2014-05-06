@@ -1,17 +1,30 @@
-// I paired [by myself, with:] on this challenge.
+// I paired [With: Ernie Salazar and Puru Dahal] on this challenge.
 
 
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
-
+// 1. Assign a number to the variable secretNumber.
+// 2. Assign 7 to the variable secretNumber.
+// 3. Assign a string value to a variable password.
+// 4. Assign the password with 'just open the door'
+// 5. Assign a boolean to variable allowedIn.
+// 6. Change the boolean assignment of the variable allowedIn to false.
+// 7. Define an empty array called members.
+// 8. Add 'John' as the first element of members array.
+// 9. Add 3 more elements to the array members, but make sure the 4th one is 'Mary'
 
 // __________________________________________
 // Write your code below.
+var secretNumber = 10;
+var secretNumber = 7;
+var password = "P@ssw0rd";
+var password = 'just open the door';
+var allowedIn = 1 < 5;
+var allowedIn = false;
+var members = [];
+var members = ['John'];
+var members = ["John", "Sue", "Ellen", "Mary"];
 
 
 
@@ -90,6 +103,17 @@ assert(
   "7. "
 )
 
+assert(
+  members[0] === "John",
+  "The first element in the value of members should be 'John'.",
+  "8. "
+)
+
+assert(
+  members[3] === "Mary",
+  "The fourth element in the value of members should be 'Mary'.",
+  "9. "
+)
 assert(
   members[0] === "John",
   "The first element in the value of members should be 'John'.",
