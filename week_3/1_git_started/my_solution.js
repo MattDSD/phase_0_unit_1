@@ -5,27 +5,26 @@ Define the following commands and describe how they work/what they do.
 git add
 This command allows you to add files to your repo. 
 
-#### branch
-<!-- Your defnition here -->
-
+git branch
+you would use this command to delete a branch
 git checkout index.html
 This allows us to change files back to how they were at the last commit. 
 
-#### clone
-<!-- Your defnition here -->
+git clone
+we use this to clone a local repository to your computer.  This is done when you are collaborating with someone on a project. 
 
 git commit -m "Leave note about changes"
 <!-- Your defnition here -->
 This command allows you to upload and changes to your repo and leave notes about the changes you made. 
 
-#### fetch
-<!-- Your defnition here -->
+git fetch
+download new files and data from a remote repository.  This would be similar to what we had to do at week 2. 
 
 git log
 Keeps track of all of the changes/commits that we have made so far 
 
-#### merge
-<!-- Your defnition here -->
+git merge
+merge two branches together. 
 
 git pull origin master 
 allows us to track users work that have pulled our code, committed them and pushed them.  
@@ -38,8 +37,8 @@ Master.  Also -u lets github know to remember which folder we are committing to 
 git reset filename.txt
 allows us to remove files from staging. 
 
-#### rm
-<!-- Your defnition here -->
+git rm "file".html
+Remove files from your git
 
 git status
 This command gives you the status of the current directory that you are in.  Have the files recently been committed, what 
