@@ -48,3 +48,6 @@ Define the following commands and describe how they work/what they do.
 - Commit locally
 
 ## Release 5: Reflection
+
+<!--My Cheat Sheet -->
+
