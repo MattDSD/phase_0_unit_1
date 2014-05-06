@@ -49,5 +49,8 @@ Define the following commands and describe how they work/what they do.
 
 ## Release 5: Reflection
 
-<!--My Cheat Sheet -->
-
+//My Cheat Sheet for Git
+//Initialize a Repo- Git init (short for initialize)
+//Commit changes - git add (file name or --all)
+//Commit changes - git commit -m "note" 
+//Check repo statis- git status 
