@@ -8,8 +8,8 @@ This command allows you to add files to your repo.
 #### branch
 <!-- Your defnition here -->
 
-#### checkout
-<!-- Your defnition here -->
+git checkout index.html
+This allows us to change files back to how they were at the last commit. 
 
 #### clone
 <!-- Your defnition here -->
@@ -21,20 +21,22 @@ This command allows you to upload and changes to your repo and leave notes about
 #### fetch
 <!-- Your defnition here -->
 
-#### log
-<!-- Your defnition here -->
+git log
+Keeps track of all of the changes/commits that we have made so far 
 
 #### merge
 <!-- Your defnition here -->
 
-#### pull
-<!-- Your defnition here -->
+git pull origin master 
+allows us to track users work that have pulled our code, committed them and pushed them.  
 
-#### push
-<!-- Your defnition here -->
+git push -u origin master 
+this function tells github where to commit our files when we are ready to commit them to our repo.  Origin stands for 
+Master.  Also -u lets github know to remember which folder we are committing to so we only have to use git push in the future. 
 
-#### reset
-<!-- Your defnition here -->
+
+git reset filename.txt
+allows us to remove files from staging. 
 
 #### rm
 <!-- Your defnition here -->
