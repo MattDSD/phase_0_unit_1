@@ -53,8 +53,15 @@ files were recently added, most recent commit notes, etc.
 
 ## Release 5: Reflection
 
-//My Cheat Sheet for Git
+//My Cheat Sheet for pushing files a repository, fetching the changes, and then committing locally
+
 //Initialize a Repo- Git init (short for initialize)
-//Commit changes - git add (file name or --all)
+//Push file to remote repo- git push github master (git push (alias) (branch))
+//git status- check status to see what was pushed 
+//
+//Check repo status to determine exactly what actions took place - git status
+//fetch changes- git pull github 
+//committing locally- 
+//Create file- mkdir filename
+//Commit changes to a remote repository - git remote add (file name or --all)
 //Commit changes - git commit -m "note" 
-//Check repo status- git status 
