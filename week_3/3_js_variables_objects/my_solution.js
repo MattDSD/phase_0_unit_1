@@ -113,4 +113,20 @@ assert(
   members[3] === "Mary",
   "The fourth element in the value of members should be 'Mary'.",
   "9. "
+<<<<<<< HEAD
 )
+=======
+)
+assert(
+  members[0] === "John",
+  "The first element in the value of members should be 'John'.",
+  "8. "
+)
+
+assert(
+  members[3] === "Mary",
+  "The fourth element in the value of members should be 'Mary'.",
+  "9. "
+)
+
+>>>>>>> FETCH_HEAD
